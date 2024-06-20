@@ -1,5 +1,7 @@
 function toFahrenheit(celsius) {
- // Write your code here
+	let c=celsius;
+	let f=9/5*c+32;
+	return f;
 }
 
 // Do not change the code below
